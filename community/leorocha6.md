@@ -10,5 +10,7 @@
 
 ## Conecte-se à minha rede profissional
 
-[![LinkedIn](https://cdn-icons-png.flaticon.com/512/174/174857.png)]
+<a href="https://www.linkedin.com/in/leonardo-rocha6/" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="20" style="vertical-align:middle; margin-right:4px;" />
+</a>  
 [Perfil no LinkedIn](https://www.linkedin.com/in/leonardo-rocha6/)
