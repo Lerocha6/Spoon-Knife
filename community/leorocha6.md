@@ -10,4 +10,4 @@
 
 ##Conecte-se a minha rede profissional
 
-[![Linkedin]](htps://uploadowkimedia.org/wikipedia/commnons/c/ca/Linkedin_logo_initials.png)
+[Linkedin](htps://uploadowkimedia.org/wikipedia/commnons/c/ca/Linkedin_logo_initials.png)
