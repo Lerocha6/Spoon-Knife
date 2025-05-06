@@ -10,5 +10,5 @@
 
 ## Conecte-se à minha rede profissional
 
-[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/c/ca/Linkedin_logo_initials.png)](https://www.linkedin.com/in/leonardo-rocha6/)  
+[![LinkedIn](https://cdn-icons-png.flaticon.com/512/174/174857.png)]
 [Perfil no LinkedIn](https://www.linkedin.com/in/leonardo-rocha6/)
