@@ -1,7 +1,13 @@
-#<b>Leonardo Oliveira</b>#
+#Perfil Profissional
 
-*Scrum Master
-*Project Manager
-*Discovering the basis of programing
+**Leonardo Rocha Oliveira**
 
-[Linkedin](https://www.linkedin.com/feed/?doFeedRefresh=true&nis=true&lipi=urn%3Ali%3Apage%3Afeed_index_index%3Bad41faf5-7387-4996-9a06-abc4f3a853e7)
+##Competência
+
+- Scrum Master Certificad: Professional Scrum Master I, Kanban Management Professional
+- MBA em Digital Business
+-Explorador do conhecimento em programação
+
+##Conecte-se a minha rede profissional
+
+[![Linkedin]](htps://uploadowkimedia.org/wikipedia/commnons/c/ca/Linkedin_logo_initials.png)
