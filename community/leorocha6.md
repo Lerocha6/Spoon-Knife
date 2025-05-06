@@ -1,13 +1,14 @@
-#Perfil Profissional
+# Perfil Profissional
 
 **Leonardo Rocha Oliveira**
 
-##Competência
+## Competência
 
-- Scrum Master Certificad: Professional Scrum Master I, Kanban Management Professional
-- MBA em Digital Business
--Explorador do conhecimento em programação
+- Scrum Master Certificado: Professional Scrum Master I, Kanban Management Professional  
+- MBA em Digital Business  
+- Explorador do conhecimento em programação
 
-##Conecte-se a minha rede profissional
+## Conecte-se à minha rede profissional
 
-[Linkedin](htps://uploadowkimedia.org/wikipedia/commnons/c/ca/Linkedin_logo_initials.png)
+[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/c/ca/Linkedin_logo_initials.png)](https://www.linkedin.com/in/leonardo-rocha6/)  
+[Perfil no LinkedIn](https://www.linkedin.com/in/leonardo-rocha6/)
